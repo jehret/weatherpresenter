@@ -58,10 +58,10 @@ Vous pouvez allez aussi loin que vous le souhaitez dans les détails avec pourqu
 
 ## Critères d'évaluation
 
+- Couverture fonctionelle
 - Qualité et lisibilité du code
 - Respect des principes SOLID
 - Utilisation appropriée des fonctionnalités de Spring et Spring Boot
-- S'il le faut pour départager les candidats: Couverture fonctionnelle
 
 ## Livraison
 
